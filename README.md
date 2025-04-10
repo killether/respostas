@@ -315,8 +315,8 @@ func palindromo(palavra string){
 }
 
 func main() {
-	palindromo("arara")   // true
-	palindromo("radar")   // true
-	palindromo("banana")  // false
+	palindromo("arara")   
+	palindromo("radar")  
+	palindromo("banana")  
 }
 	
